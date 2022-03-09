@@ -1,2 +1,2 @@
-# django_website
+# django_blog
 Django Blog + Landing Page
