@@ -1,5 +1,5 @@
 # About
-This project serves as a Landing page for personal website crowe.dev and includes a Django Blog demo.
+This project serves as a Landing page for personal website www.crowe.dev and includes a Django Blog demo.
 
 # Django Blog
 This Blog project is written in Python utilizing the Django Framework. It serves as an exploration for a few tech stack choices, opting to replace the default sqlite DBs with postgres.  It includes simple standard blog functionality you'd expect, including: 
